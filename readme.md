@@ -5,4 +5,4 @@ This is the third and final Static Comp Challenge for Mod1.  The layout of this 
 
 ![original comp](https://github.com/rburnette3/RB-1705-static-comp-challenge-3/blob/master/assets/Screen%20Shot%202017-06-06%20at%2010.29.36%20PM.png)
 
-![reproduced comp](assets/Screen Shot 2017-06-06 at 10.28.52 PM.png)
+![reproduced comp](https://github.com/rburnette3/RB-1705-static-comp-challenge-3/blob/master/assets/Screen%20Shot%202017-06-06%20at%2010.28.52%20PM.png)
