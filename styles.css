@@ -310,6 +310,12 @@ header{
   width: 400px;
 }
 
+::placeholder {
+  padding: 35px;
+  color: #AEB9CB;
+  font-size: 14px;
+}
+
 .icon {
   display: block;
   height: 25px;
@@ -592,6 +598,18 @@ td {
 
 tbody th {
   min-width: 200px;
+}
+
+.table-photo {
+  width: 40px;
+  height: 40px;
+  margin-right: 20px;
+  border-radius: 100%;
+}
+
+.boris-johnson {
+  display: inline-flex;
+  align-items: center;
 }
 
 .lower-link-section {
